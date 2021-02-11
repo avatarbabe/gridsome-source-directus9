@@ -1,0 +1,31 @@
+{
+    "name": "gridsome-source-directus9",
+    "version": "0.1",
+    "description": "Gridsome Source Plugin to load data from Directus CMS",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:avatarbabe/gridsome-source-directus9.git"
+    },
+    "bugs": {
+        "url": "https://github.com/avatarbabe/gridsome-source-directus9/issues"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "email": "marcus_soderlund@yahoo.se",
+        "name": "Marcus Söderlund",
+        "url": "https://soderlund.dev"
+    },
+    "homepage": "https://soderlund.dev",
+    "license": "MIT",
+    "keywords": [
+        "gridsome",
+        "gridsome-plugin",
+        "gridsome-source-plugin",
+        "directus"
+    ],
+    "dependencies": {
+        "@directus/sdk-js": "^9.0.0-rc.34"
+    }
+}
