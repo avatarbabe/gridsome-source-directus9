@@ -2,7 +2,7 @@
 
 Based on https://github.com/peXed/gridsome-source-directus, updated to support Directus 9
 
-###Basic usage:
+### Basic usage:
 
 Since this package is not (yet) published on npm, just clone the repo and add it to your package.json file:
 {
