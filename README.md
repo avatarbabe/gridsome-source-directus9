@@ -24,7 +24,7 @@ module.exports = {
         project: "Directus", //name of project in directus
         email: "", //email for login to directus
         password: "", //password for login to directus
-        collections: [
+        collections: [ //example collections, read more about the options here: https://github.com/peXed/gridsome-source-directus
           {
             name: "articles",
             status: "published",
