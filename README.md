@@ -12,6 +12,12 @@ Since this package is not (yet) published on npm, just clone the repo and add it
   },
 }
 ```
+OR
+```
+yarn add https://github.com/avatarbabe/gridsome-source-directus9
+
+npm install https://github.com/avatarbabe/gridsome-source-directus9
+```
 
 Add this in your gridsome.config.js:
 ```javascript 
